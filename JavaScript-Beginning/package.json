@@ -1,13 +1,13 @@
 {
-    "name": "js-starter-code",
-    "version": "1.0.0",
-    "main":"startScript.js",
-    "description": "JS Starter Code",
-    "scripts": {
-      "start": "lite-server"
-    },
-    "author": "antomys",
-    "devDependencies": {
-      "lite-server": "^2.5.4"
-    }
+  "name": "js-starter-code",
+  "version": "1.0.0",
+  "main": "startScript.js",
+  "description": "JS Starter Code",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "antomys",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
   }
+}
