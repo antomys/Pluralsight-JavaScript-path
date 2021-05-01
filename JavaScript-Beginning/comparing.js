@@ -1,5 +1,4 @@
-// == and ===. == casts to type, === compares objects as is
-
+// == and ===. == casts to type, === compares objects as is. ALWAYS USE ===
 if(1 === '1'){
     console.log('1=== string 1');
 }else{
