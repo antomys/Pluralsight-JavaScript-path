@@ -1,4 +1,4 @@
-// Actually falsy are:
+// Actually Falsy are:
 let falsy = [false,0,'empty string',null,undefined,NaN];
 
 console.log('false are:', falsy);
